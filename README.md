@@ -71,7 +71,7 @@ ____________________________________________________
 - Request Body:
 ```bash
  {
-  "email": "abc@example.com",
+  "email": "abc@gmail.com",
     "password": "abc"
 }
 ```
